@@ -7,7 +7,7 @@ Website URL: <a href='https://l485dsw7nc.execute-api.ap-south-1.amazonaws.com/de
 <img src='https://github.com/m-shilpa/EVA4P2/blob/master/S1-Deploying_Over_AWS/images/insomia_output.JPG' alt='insomia_results'>
 <img src='https://github.com/m-shilpa/EVA4P2/blob/master/S1-Deploying_Over_AWS/images/header.JPG' alt='header'>
 
-<h3>Logs of AWS Lambda:</h3>
+<h3>Cloudwatch Logs:</h3>
 
 <img src='https://github.com/m-shilpa/EVA4P2/blob/master/S1-Deploying_Over_AWS/images/lamdba.JPG' alt='lambda_result'>
 
